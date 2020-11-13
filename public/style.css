@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url('imageeeeee.jpg');
+    margin-top: 30px;
+}
+
+.btn{
+    background-color: grey;
+}
+
+.btn1{
+    display: inline;
+}
+.litext{
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    list-style-type: none;
+}
